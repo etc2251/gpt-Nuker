@@ -1,0 +1,4 @@
+﻿  Hook-Master.cpp
+C:\Users\Elias\source\repos\Hook-Master\Hook-Master\Hook-Master.cpp(46,104): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Elias\source\repos\Hook-Master\Hook-Master\Hook-Master.cpp(131,104): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Hook-Master.vcxproj -> C:\Users\Elias\source\repos\Hook-Master\x64\Debug\Hook-Master.exe
