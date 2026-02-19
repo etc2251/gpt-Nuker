@@ -1,2 +1,2 @@
 # gpt-Nuker
-This is made in gpt, and is VERY trash. if your using it for laughs or wanna modify it, that would be the best idea if you wanna get actual usage out of it.
+Generated with ChatGPT by OpenAI. Please only use this if you want to modify it, or for some laughs.
